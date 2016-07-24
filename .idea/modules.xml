@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSample.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSample_main.iml" group="JavaSample" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSample_test.iml" group="JavaSample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin/kotlin.iml" group="kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin/kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin/kotlin_main.iml" group="kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin/kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin/kotlin_test.iml" group="kotlin" />
     </modules>
   </component>
 </project>

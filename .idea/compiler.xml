@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="JavaSample_main" target="1.5" />
       <module name="JavaSample_test" target="1.5" />
+      <module name="kotlin_main" target="1.5" />
+      <module name="kotlin_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

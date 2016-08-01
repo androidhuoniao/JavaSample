@@ -12,5 +12,6 @@ public class CompilerIntelligence {
         Apple apple = (Apple) list.get(0);
         list.contains(new Apple());
         list.indexOf(new Apple());
+        Fruit fruit = list.get(1);
     }
 }

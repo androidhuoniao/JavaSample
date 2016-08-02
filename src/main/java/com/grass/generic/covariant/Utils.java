@@ -22,9 +22,9 @@ public class Utils<T> {
     }
 
     public static void main(String[] args) {
-        List<Vehicle> vehicles = new ArrayList<Vehicle>();
-        List<Benz> benzs = new ArrayList<Benz>();
-        Utils<Car> carUtils = new Utils<Car>();
+        List<Vehicle> vehicles = new ArrayList();
+        List<Benz> benzs = new ArrayList();
+        Utils<Car> carUtils = new Utils();
 
         carUtils.put(vehicles, new Car());
         Car car = carUtils.get(benzs, 0);

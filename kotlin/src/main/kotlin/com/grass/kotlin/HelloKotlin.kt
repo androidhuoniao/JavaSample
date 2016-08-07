@@ -5,5 +5,7 @@ package com.grass.kotlin
  */
 
 fun main(args: Array<String>) {
-    println("hello kotlin")
+    var str = "hello kotlin"
+    println(str.capitalize())
+
 }
